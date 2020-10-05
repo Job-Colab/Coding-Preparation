@@ -9,7 +9,7 @@
 
 ## Problem Setters  💻  👩 👨 
 
-## *The prob setters follow the alphabetical order of their name* <br> 
+### *The prob setters follow the alphabetical order of their name* <br> 
 
 Ex : **Durga** , Gowtham , **Lawrance** , Harshi , Kailash.. <br> 
 
