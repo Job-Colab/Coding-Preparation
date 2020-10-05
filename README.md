@@ -16,8 +16,8 @@ Ex : **Durga** , Gowtham , **Lawrance** , Harshi , Kailash.. <br>
 **Day-01** -- > **Durga** <br> 
 **Day-02** -- > **Gowtham** <br> ...
 
-**It continues ...
+***It continues  ...
 🙂
 
-## Every Morning after breakfast, code recipe should be ready 🍔 <br> 
+### Every Morning after breakfast, code recipe should be ready 🍔 <br> 
 
