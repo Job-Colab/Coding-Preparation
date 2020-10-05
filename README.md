@@ -9,7 +9,7 @@
 
 ## Problem Setters  💻  👩 👨 
 
-**The prob setters have to upload problem in the alphabetical order of their name : <br> 
+### The prob setters are alphabetical order of COLAB_ MEMBERS <br> 
 
 Ex : Durga , Gowtham , Lawrance , Harshi , Kailash.. <br> 
 
@@ -18,3 +18,6 @@ Day-02 -- > *Gowtham* <br> ...
 
 **It continues ...
 🙂
+
+## Every Morning at after breakfast, code recipe should be ready 🍔 <br> 
+
