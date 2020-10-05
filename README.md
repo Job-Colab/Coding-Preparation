@@ -9,15 +9,15 @@
 
 ## Problem Setters  💻  👩 👨 
 
-### The prob setters are alphabetical order of COLAB_ MEMBERS <br> 
+## *The prob setters follow the alphabetical order of their name* <br> 
 
-Ex : Durga , Gowtham , Lawrance , Harshi , Kailash.. <br> 
+Ex : **Durga** , Gowtham , **Lawrance** , Harshi , Kailash.. <br> 
 
-Day-01 -- > *Durga* <br> 
-Day-02 -- > *Gowtham* <br> ...
+**Day-01 -- > Durga* <br> 
+**Day-02 -- > Gowtham* <br> ...
 
 **It continues ...
 🙂
 
-## Every Morning at after breakfast, code recipe should be ready 🍔 <br> 
+## Every Morning after breakfast, code recipe should be ready 🍔 <br> 
 
