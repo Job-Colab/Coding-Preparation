@@ -23,6 +23,6 @@ Ex : **Durga** , Gowtham , **Lawrance** , Harshi , Kailash.. <br>
 
 *Problem should be uploaded every morning by 10.00 AM*
 
-## Way to set a problem ## 🥜🥜
+## Way to set a problem  🥜🥜
 
-### *Day-number 📆 /Problem.md* 
+ *Day-number 📆 / Problem.md* 
