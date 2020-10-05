@@ -13,8 +13,8 @@
 
 Ex : **Durga** , Gowtham , **Lawrance** , Harshi , Kailash.. <br> 
 
-**Day-01 -- > **Durga** <br> 
-**Day-02 -- > **Gowtham** <br> ...
+**Day-01** -- > **Durga** <br> 
+**Day-02** -- > **Gowtham** <br> ...
 
 **It continues ...
 🙂
