@@ -1,4 +1,4 @@
-## Guidelines 🎌  <br>
+### Guidelines 🎌  <br>
 :heavy_check_mark: One problem per-day <br>
 :heavy_check_mark: Problem setters should create a folder and problem.md file, denoting the day and problem respectively <br>
 :heavy_check_mark: Problems can be solved by using any language of your choice <br>
@@ -7,11 +7,11 @@
 :heavy_check_mark: New Comers should solve from Day-01.<br>
 :heavy_check_mark: Never skip any Problem.
 
-## Problem Setters  💻  👩 👨 
+### Problem Setters  💻  👩 👨 
 
  *The prob setters follow the alphabetical order of their name* <br> 
 
-***Ex** : **D**urga , **G**owtham , Lawrance , Harshi , Kailash.. <br> 
+**Ex** : **D**urga , **G**owtham , Lawrance , Harshi , Kailash.. <br> 
 
 *Day-01* -- > **D**urga <br> 
 *Day-02* -- > **G**owtham <br> ...
@@ -19,10 +19,10 @@
 ***It Continues***  ...
 🙂
 
-## Every Morning after breakfast, code recipe should be ready 🍔 <br> 
+### Every Morning after breakfast, code recipe should be ready 🍔 <br> 
 
 *Problem should be uploaded every morning by 10.00 AM*
 
-## Way to set a problem  🥜🥜
+### Way to set a problem  🥜🥜
 
  *Day-number 📆 / Problem.md* 
