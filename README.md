@@ -7,3 +7,15 @@
 :heavy_check_mark: New Comers should solve from Day-01.<br>
 :heavy_check_mark: Never skip any Problem.
 
+## Problem Setters ordering  :laptop:
+
+**The prob setters have to upload problem in the alphabetical order of their name : <br> 
+
+Ex : Durga , Gowtham , Lawrance , Harshi , Kailash.. 
+
+Day-01 -- > *Durga*
+Day-02 -- > *Gowtham* <br> ...
+
+**It continues ...
+
+:grinning:
