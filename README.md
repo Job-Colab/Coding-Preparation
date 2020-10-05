@@ -11,12 +11,12 @@
 
  *The prob setters follow the alphabetical order of their name* <br> 
 
-Ex : **Durga** , Gowtham , **Lawrance** , Harshi , Kailash.. <br> 
+***Ex** : **D**urga , **G**owtham , Lawrance , Harshi , Kailash.. <br> 
 
-**Day-01** -- > **Durga** <br> 
-**Day-02** -- > **Gowtham** <br> ...
+*Day-01* -- > **D**urga <br> 
+*Day-02* -- > **G**owtham <br> ...
 
-***It continues***  ...
+***It Continues***  ...
 🙂
 
 ## Every Morning after breakfast, code recipe should be ready 🍔 <br> 
