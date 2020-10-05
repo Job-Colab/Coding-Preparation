@@ -1,7 +1,7 @@
 
 void multiply(int A[][100], int B[][100], int C[][100], int N)
 {
-    
+    // C[N][N] = {0}  Cannot be done as C is passed as an argument .. //Taught By Law :)
  
      for(int i = 0 ; i < N ; i++)
      {
