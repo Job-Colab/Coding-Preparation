@@ -1,3 +1,3 @@
-[click] (https://binarysearch.com/problems/24-hour-time)
+[click](https://binarysearch.com/problems/24-hour-time)
 
-### Happy Coding 
+### Happy Coding 🙂
