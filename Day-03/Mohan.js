@@ -1,4 +1,4 @@
-const _24HourFormat = (time) => {
+const convertTo24Hour = (time) => {
   const validation = /[AaPp][Mm]$/;
   const result = validation.exec(time).includes("pm");
   const colon = time.split(":");
@@ -15,4 +15,4 @@ const _24HourFormat = (time) => {
   return `${hours}:${minutes}`;
 };
 
-console.log(_24HourFormat("1:00pm"));
+console.log(convertTo24Hour("12:00am"));
