@@ -10,13 +10,14 @@ const findIndex = (inputElements, target) => {
       }
     }
   }
+
   if (output.length != -1) {
     console.log("Array has no matching elements to add for target");
   }
   return output;
 };
 
-const inputElements = [1, 3, 4, 6, 8, 7, 1];
-const target = 40;
+const inputElements = [2, 7, 11, 15];
+const target = 9;
 
 console.log(findIndex(inputElements, target));
