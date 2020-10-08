@@ -13,8 +13,8 @@ const findIndex = (inputElements, target) => {
 
   if (output.length != -1) {
     console.log("Array has no matching elements to add for target");
+    return output;
   }
-  return output;
 };
 
 const inputElements = [2, 7, 11, 15];
