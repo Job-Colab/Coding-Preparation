@@ -1,9 +1,9 @@
-#include "solution.hpp"
+#include<iostream>
+#include<algorithm>
+#include<vector>
 using namespace std;
 
-class Solution {
-    public:
-    int solve(vector<int>& nums) {
+int solve(vector<int>& nums) {
         vector<int> ans;
         for(int i=0; i<nums.size(); i++){
             if(nums[i] == i ){
@@ -17,5 +17,8 @@ class Solution {
         else{
             return ans[0];
         }
-    }
-};
+}
+int main(){
+    vector<int> a = {1,1,2,4};
+    cout<<solve(a);
+}
