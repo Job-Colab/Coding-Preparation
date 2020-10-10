@@ -27,6 +27,6 @@ class Solution {
 int main(){
   Solution obj = new Solution();
   vector<int> ar = {-5, -2, 0, 3, 4 };
-  cout<<obj.solve();
+  cout<<obj.solve(ar);
   return 0;
 }
