@@ -31,7 +31,6 @@
 :woman_student: Lavanya <br>
 :man_student:  Lawrance <br>
 :man_student: Mohan Singh <br>
-:man_student: Muthukumar <br>
 :man_student: Rehit <br>
 :man_student: Surya <br>
 
