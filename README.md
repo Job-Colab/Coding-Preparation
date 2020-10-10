@@ -21,9 +21,9 @@
 *It Continues* ... <br> 
 
 ### Problem Setters   👋 
-> Ordered list
+> Ordered list <br>
 :man_student: Dakshi <br>
-:woman_student: Durga [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=blue)](https://github.com/durgasneha) <br>
+:woman_student: Durga <br>
 :man_student:  Gowtham <br>
 :woman_student: Harshitha <br>
 :man_student: Jagadeeshwaran <br>
