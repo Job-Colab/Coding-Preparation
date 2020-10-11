@@ -15,5 +15,5 @@ class Solution:
         return(a)            
 if __name__ == '__main__':
     obb=Solution()
-    strs = ["flower","flow","flight"]#list(map(int,input().split()))
+    strs = ["flower","flow","flight"]#list(input().split()))
     print(""" "%s" """%obb.longestCommonPrefix(strs))
