@@ -11,8 +11,8 @@ class Solution:
                         break
                 except IndexError:
                     pass
-            
-        return(a)            
+
+    return(a)
 if __name__ == '__main__':
     obb=Solution()
     strs = ["flower","flow","flight"]#list(input().strip(' []').split(','))
