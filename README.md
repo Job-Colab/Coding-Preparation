@@ -34,7 +34,6 @@ _It Continues_ ... <br>
 > :man_student: Lawrance <br>
 > :man_student: Mohan Singh <br>
 > :woman_student: Rajalakshmi <br>
-> :man_student: Rehith <br>
 > :man_student: Surya <br>
 
 ### Every Morning after breakfast, code recipe should be ready 🍔 <br>
