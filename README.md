@@ -1,11 +1,11 @@
 ### Guidelines 🎌 <br>
 
 :heavy_check_mark: One problem per-day <br>
-:heavy_check_mark: Problem setters should create a folder and problem.md file, denoting the day and problem respectively <br>
+:heavy_check_mark: Problem setters should create a folder and Problem.md file, denoting the day and problem respectively <br>
 :heavy_check_mark: Problems can be solved using any language of your choice <br>
 :heavy_check_mark: Problem solvers should name the program file with their name \_Ex : Harshitha.cpp* <br>
 :heavy_check_mark: Don't use IDE for solving Problems. Use text-editors! <br>
-:heavy_check_mark: New Comers should solve from Day-01.<br>
+:heavy_check_mark: New Comers should solve from Day-0.<br>
 :heavy_check_mark: Never skip any Problem.
 
 ### Problem Setters 💻 👩 👨
@@ -24,7 +24,7 @@ _It Continues_ ... <br>
 ### Problem Setters 👋
 
 > Ordered list <br>
-> :man_student: Dakshi <br>
+> :man_student: Dakshineshwar <br>
 > :woman_student: Durga <br>
 > :man_student: Gowtham <br>
 > :woman_student: Harshitha <br>
@@ -33,6 +33,7 @@ _It Continues_ ... <br>
 > :woman_student: Lavanya <br>
 > :man_student: Lawrance <br>
 > :man_student: Mohan Singh <br>
+> :woman_student: Rajalakshmi <br>
 > :man_student: Rehith <br>
 > :man_student: Surya <br>
 
