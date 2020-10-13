@@ -3,7 +3,7 @@ const lastStoneWeight = (stones) => {
     return 0;
   }
   let sortedStones = stones.sort((a, b) => a - b);
-  while (sortedStones.length < 2) {
+  while (sortedStones.length > 1) {
     let largestStone = sortedStones.pop();
     let secondLargestStone = sortedStones.pop();
     sortedStones.push(largestStone - secondLargestStone);
