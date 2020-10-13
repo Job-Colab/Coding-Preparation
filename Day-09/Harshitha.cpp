@@ -1,4 +1,3 @@
-//Find the fine : gfg
 
 #include<iostream>
 using namespace std;
@@ -32,15 +31,20 @@ int main()
     {
        if(D % 2 == 0) //even
        {
-       if(i % 2 == 0)
+       if(cars[i] % 2 != 0)
        {
+       
            fine += penalty[i];
        }
        }
+       
        if( D % 2 != 0)
        {   
-           if( i % 2 != 0)
+           if(cars[i] % 2 == 0) 
+           {
+           
            fine += penalty[i];  
+           }
        }
     
     
