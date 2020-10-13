@@ -39,7 +39,8 @@ _It Continues_ ... <br>
 
 ### Every Morning after breakfast, code recipe should be ready 🍔 <br>
 
-_Problem should be uploaded every morning by 10.00 AM_
+_Problem should be uploaded every morning by 10.00 AM_ <br>
+_If not set , person who spots it , will set it!
 
 ### Way to set a problem 🥜🥜
 
