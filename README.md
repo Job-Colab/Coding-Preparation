@@ -29,12 +29,14 @@ _It Continues_ ... <br>
 > :man_student: Gowtham <br>
 > :woman_student: Harshitha <br>
 > :man_student: Jagadeeshwaran <br>
+> :man_student: Josephalan <br>
 > :man_student: Kailas <br>
 > :woman_student: Lavanya <br>
 > :man_student: Lawrance <br>
 > :man_student: Mohan Singh <br>
 > :woman_student: Purvi <br>
 > :woman_student: Rajalakshmi <br>
+> :man_student: Shivakumar <br>
 > :man_student: Surya <br>
 
 ### Every Morning after breakfast, code recipe should be ready 🍔 <br>
