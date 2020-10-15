@@ -11,9 +11,9 @@ int main() {
     cin>>word;
     cout<<"\n Enter the number of letters to rotate: ";
     cin>>k;
-	  for (int i = 0; i < word.length(); i++) 
+    for (int i = 0; i < word.length(); i++) 
     {   int code = word[i];
-        if((code>=65&&code<=90)||(code>=97&&code<=122))   // checking whether alphabet
+        if((code>=65&&code<=90)||(code>=97&&code<=122))   
         {   code+=k;
 		        if(code>122||code>90)   //rotating to the front when the encrypted letters exceed 'z'
 		        {  code-=26;  }
