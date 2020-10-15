@@ -30,5 +30,5 @@ var letterCombinations = (digits) => {
   return combinations;
 };
 
-const result = letterCombinations("23");
+const result = letterCombinations("234");
 console.log(result);
