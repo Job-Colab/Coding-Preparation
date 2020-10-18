@@ -8,6 +8,7 @@
 :heavy_check_mark: New Comers should solve from Day-0.<br>
 :heavy_check_mark: Never skip any Problem.
 
+
 ### Problem Setters 💻 👩 👨
 
 _The prob setters follow the alphabetical order of their name_ <br>
@@ -42,8 +43,17 @@ _It Continues_ ... <br>
 ### Every Morning after breakfast, code recipe should be ready 🍔 <br>
 
 _Problem should be uploaded every morning by 10.00 AM_ <br>
-_If not set , person who spots it , will set it!
+_If not set , person who spots it , will set it!_
 
 ### Way to set a problem 🥜🥜
 
 _Day-number 📆 / Problem.md_
+
+### After solving a problem <br>
+
+_Write a pseudo code or a short editorial of how your code works as comments._
+
+:heavy_check_mark: It will help all of us to code better
+
+
+
