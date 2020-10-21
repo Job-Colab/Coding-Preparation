@@ -34,7 +34,6 @@ _It Continues_ ... <br>
 > :man_student: Kailas <br>
 > :woman_student: Lavanya <br>
 > :man_student: Lawrance <br>
-> :man_student: Mohan Singh <br>
 > :woman_student: Purvi <br>
 > :woman_student: Rajalakshmi <br>
 > :man_student: Shivakumar <br>
