@@ -1,2 +1,2 @@
 
-[Click](www.hackerrank.com/challenges/apple-and-orange/problem)
+[click](https://www.hackerrank.com/challenges/apple-and-orange/problem)
