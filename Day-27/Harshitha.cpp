@@ -1,17 +1,23 @@
+
+#include<bits/stdc++.h>
+using namespace std;
+
+
 class Solution {
 public:
-    bool judgeCircle(string moves) {
-        unordered_map<char, pair<int, int> > mp;
-        mp['U'] = {0, 1};
-        mp['D'] = {0, -1};
-        mp['R'] = {1, 0};
-        mp['L'] = {-1, 0};
-        pair<int, int> ans = {0, 0};
-        for(char i : moves) {
-            auto j = mp[i];
-            ans.first += j.first;
-            ans.second += j.second;
+    bool judgeCircle(string moves)
+    {
+        int x = 0 , y = 0; // u = 0 1 ,d = 0 -1 , r = 1 0 , l = -1 , 1
+        
+        for(auto i : moves)
+        {
+            if(i == 'U') y++;
+            else if(i == 'D')y--;
+            else if(i == 'R')x++;
+            else if(i == 'L')x--;
+
         }
-        return (ans.first == 0 && ans.second == 0);
+        return x == 0 && y == 0;
     }
+    
 };
