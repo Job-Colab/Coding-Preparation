@@ -1,1 +1,1 @@
-[Click](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+[Click](https://www.codechef.com/problems/TRISQ)
