@@ -1,3 +1,3 @@
-As the problem was not uploaded within the stipulated time , it is done by the first spotter,  kinldy keep up the time  **@Shivakumar<strong>**
+**Problem Setters** kindly keep up the time 
 
 [Problem](https://open.kattis.com/problems/telephones)
