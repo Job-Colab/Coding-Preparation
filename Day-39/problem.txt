@@ -1,0 +1,2 @@
+Solve the problem in the given link:
+https://www.hackerrank.com/challenges/kaprekar-numbers/problem
