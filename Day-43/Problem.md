@@ -1,0 +1,1 @@
+[Problem](https://practice.geeksforgeeks.org/problems/peak-element/1/?company[]=Amazon&problemType=functional&page=1&sortBy=submissions&query=company[]AmazonproblemTypefunctionalpage1sortBysubmissions)
