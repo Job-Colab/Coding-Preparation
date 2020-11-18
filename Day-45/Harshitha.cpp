@@ -23,7 +23,7 @@ int main()
     int n;
     cin>>n;
 
-    vector<int>nums;
+    vector<int>nums(n*2);
     
 
     for(int i = 0 ; i < n*2 ; i++)
