@@ -5,52 +5,35 @@ using namespace std;
  // } Driver Code Ends
 
 
+
+
+
 class Solution
 {
   public:
-  Node *reverse(Node *head){
-    Node *current = head;
-    Node *prev = NULL, *next = NULL;
-    while (current != NULL) {
-            next = current->next;
- 
-            current->next = prev;
- 
-            prev = current;
-            current = next;
-        }
-    head = prev;
-    return head;
-}
-
-struct Node* addTwoLists(struct Node* first, struct Node* second)
-{
-    Node *res=NULL, *prev=NULL, *temp;
-    int sum=0, carry=0;
-    first = reverse(first);
-    second = reverse(second);
-    while(first or second){
-        sum = carry + (first? first->data:0) + (second? second->data:0);
-        carry = (sum>=10)?1:0;
-        sum = sum%10;
-        temp = new Node(sum);
-        if(res==NULL)
-            res=temp;
-        else
-            prev->next = temp;
-        prev = temp;
-       
-        if(first)
-            first=first->next;
-        if(second)
-            second = second->next;
+    void sortIt(long long arr[], long long n)
+    {
+        //code here.
+        int i;
+        vector<int> eve,odd,ans;
+        for(i=0;i<n;i++)
+            {
+                if(arr[i]%2==0)
+                    eve.push_back(arr[i]);
+                else
+                    odd.push_back(arr[i]);
+            }
+            int k=0;
+            sort(odd.begin(),odd.end(),greater<int>());
+            sort(eve.begin(),eve.end());
+            for(i=0;i<odd.size();i++)
+                arr[k++]=odd[i];
+            for(i=0;i<eve.size();i++)
+                arr[k++]=eve[i];
+                
     }
-    if(carry>0)
-        temp->next = new Node(carry);
-    return reverse(res);
-}
-
 };
+
 
 // { Driver Code Starts.
 int main() {
