@@ -1,1 +1,1 @@
-<a href ="https://mycode.prepbytes.com/problems/arrays/BUYSELL">click here</a>
+<a href ="https://leetcode.com/problems/destination-city/">click here</a>
