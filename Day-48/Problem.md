@@ -1,1 +1,1 @@
-[Problem](https://leetcode.com/problems/defuse-the-bomb/)
+[Problem](https://codeforces.com/problemset/problem/379/A)
