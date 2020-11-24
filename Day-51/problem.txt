@@ -1,1 +1,1 @@
-Implement the working of a queue using stack and perform operations like enqueue dequeue and display
+https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
