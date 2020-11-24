@@ -1,2 +1,1 @@
-Solve problem in given link:
-https://www.geeksforgeeks.org/queue-using-stacks/
+Implement the working of a queue using stack and perform operations like enqueue dequeue and display
