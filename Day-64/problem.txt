@@ -1,0 +1,2 @@
+Solve the problem in the link:
+https://www.hackerrank.com/challenges/strange-code/problem
