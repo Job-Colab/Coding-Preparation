@@ -1,1 +1,1 @@
-[Problem](https://leetcode.com/problems/reach-a-number/)
+[Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
