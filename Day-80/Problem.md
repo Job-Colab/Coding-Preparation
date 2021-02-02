@@ -1,0 +1,1 @@
+[Problem](https://practice.geeksforgeeks.org/problems/print-an-array-in-pendulum-arrangement/0/?problemType=full&difficulty[]=-1&page=1&sortBy=submissions&query=problemTypefulldifficulty[]-1page1sortBysubmissions)
