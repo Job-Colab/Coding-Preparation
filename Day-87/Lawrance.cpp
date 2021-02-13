@@ -15,6 +15,7 @@ int atoi(string str) {
         }
         else {
             number = -1;
+            break;
         }
     }
     return (sign) ? -1 * number : number;
