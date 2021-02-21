@@ -16,12 +16,10 @@ int main() {
             }
             int ans = 0;
             for(int i = 0; i < n; i++) {
-                if(i == 0) {
+                if(i == 0) 
                     ans += (arr[i].first * arr[i].second);
-                }
-                else {
+                else 
                     ans += (arr[i].first * (arr[i].second - arr[i - 1].second));
-                }
             }
             cout << ans << " miles" << endl;
         }
