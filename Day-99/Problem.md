@@ -1,1 +1,1 @@
-[Problem](https://binarysearch.com/problems/Rate-Limiter)
+[Problem](https://binarysearch.com/problems/Compress-String)
