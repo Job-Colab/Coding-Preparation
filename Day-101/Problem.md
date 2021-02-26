@@ -1,0 +1,1 @@
+[Problem](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1/?company[]=Amazon&company[]=Amazon&problemType=functional&difficulty[]=1&page=1&sortBy=submissions&query=company[]AmazonproblemTypefunctionaldifficulty[]1page1sortBysubmissionscompany[]Amazon)
