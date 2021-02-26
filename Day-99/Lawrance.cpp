@@ -10,3 +10,4 @@ string solve(string s) {
     }
     return ans;
 }
+
