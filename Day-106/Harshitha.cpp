@@ -12,3 +12,4 @@ int solve(int n) {
     n = stoi(s);
     return n;
 }
+//
