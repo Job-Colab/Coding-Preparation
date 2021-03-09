@@ -1,0 +1,1 @@
+[Problem](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1/?company[]=Amazon&company[]=Amazon&problemType=functional&page=1&sortBy=submissions&query=company[]AmazonproblemTypefunctionalpage1sortBysubmissionscompany[]Amazon)
