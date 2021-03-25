@@ -1,0 +1,1 @@
+[problem](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1/?company[]=Amazon&company[]=Amazon&problemType=functional&page=1&sortBy=submissions&category[]=Mathematical&query=company[]AmazonproblemTypefunctionalpage1sortBysubmissionscompany[]Amazoncategory[]Mathematical)
