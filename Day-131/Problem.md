@@ -1,1 +1,1 @@
-[Problem](https://leetcode.com/problems/divisor-game/)
+[Problem](https://leetcode.com/problems/merge-sorted-array/)
